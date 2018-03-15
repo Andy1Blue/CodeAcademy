@@ -14,7 +14,6 @@ public class IntTask6 {
 
         double score = (double) firstNumber/secoundNumber;
 
-
         System.out.println(score);
 
     }

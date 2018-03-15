@@ -10,7 +10,7 @@ public class StringTask8 {
 
         String abc = scanner.nextLine();
 
-        System.out.println(abc + "\ndwie ostatatnie to: " + abc.charAt(abc.length()-2) + abc.charAt(abc.length()-1));
+        System.out.println(abc + "\nDwie ostatatnie to: " + abc.charAt(abc.length()-2) + abc.charAt(abc.length()-1));
 
         System.out.println(abc.substring(abc.length()-2));
 
