@@ -8,6 +8,7 @@ public class IntTask10 {
         int someNumberTwo = (int) 123l;
 
         System.out.println(someNumberTwo);
+
     }
 
 }

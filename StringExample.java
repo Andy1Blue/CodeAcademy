@@ -15,8 +15,8 @@ public class StringExample {
         Integer c = 1;
 
         //porównuje referncje a nie obiekty
-        if(aa.equals(bb)) {
-           System.out.println("Takie same");
+        if (aa.equals(bb)) {
+            System.out.println("Takie same");
         } else {
             System.out.println("Nie takie same");
         }

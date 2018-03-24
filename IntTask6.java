@@ -12,7 +12,7 @@ public class IntTask6 {
         System.out.println("Podaj 2 liczbę:");
         int secoundNumber = scanner.nextInt();
 
-        double score = (double) firstNumber/secoundNumber;
+        double score = (double) firstNumber / secoundNumber;
 
         System.out.println(score);
 

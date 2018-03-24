@@ -11,9 +11,9 @@ public class IfTask16 {
         int ageOne = scanner.nextInt();
         int ageTwo = scanner.nextInt();
 
-        if((ageOne >= 13 && ageOne < 18) && (ageTwo >= 13 && ageTwo < 18)) {
+        if ((ageOne >= 13 && ageOne < 18) && (ageTwo >= 13 && ageTwo < 18)) {
             System.out.println("TAK");
-        }else{
+        } else {
             System.out.println("NIE");
         }
 

@@ -10,7 +10,7 @@ public class StringTask4 {
 
         String abc = scanner.nextLine();
 
-        System.out.println(abc.charAt(abc.length()-2));
+        System.out.println(abc.charAt(abc.length() - 2));
 
     }
 

@@ -12,7 +12,7 @@ public class StringTask9 {
 
         System.out.println(abc.contains("Kot") || abc.contains("Kot2") || abc.contains("Kot3"));
 
-        if(abc.equals("Kot")){
+        if (abc.equals("Kot")) {
             System.out.println(true);
         } else {
             System.out.println(false);

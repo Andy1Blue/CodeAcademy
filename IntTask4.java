@@ -10,7 +10,7 @@ public class IntTask4 {
         int userNumber = scanner.nextInt(); //userNumber = 5
         //1234 reszta przez dzisięć
         //1234 = (1*10^3+2*10^2+3*10^1+4)*10^0
-        System.out.println(userNumber%10);
+        System.out.println(userNumber % 10);
 
     }
 

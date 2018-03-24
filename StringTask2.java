@@ -10,7 +10,7 @@ public class StringTask2 {
 
         System.out.println(scanner.nextLine().length());
 
-        System.out.println((int)'o');
+        System.out.println((int) 'o');
 
     }
 

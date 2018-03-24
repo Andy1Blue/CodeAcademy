@@ -9,7 +9,7 @@ public class IntTask5 {
         Scanner scanner = new Scanner(System.in);
         int firstNumber = scanner.nextInt();
         int secondNumer = scanner.nextInt();
-        System.out.println(firstNumber+secondNumer);
+        System.out.println(firstNumber + secondNumer);
 
     }
 

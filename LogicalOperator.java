@@ -9,20 +9,20 @@ public class LogicalOperator {
         int age = 23;
         int dayOfWeek = 4;
 
-        if (age >= 18  && dayOfWeek == 5) {
+        if (age >= 18 && dayOfWeek == 5) {
             System.out.println("Jesteś pełnoletni!");
         } else if (age == 17) {
             System.out.println("Prawie...");
-        }else{
+        } else {
             System.out.println("Nie jesteś pełnoletni!");
-    }
+        }
 
-    //----------
+        //----------
 
-    String msg = age >= 18 ? "Pełnoletność" : "Małolat";
+        String msg = age >= 18 ? "Pełnoletność" : "Małolat";
         System.out.println(msg);
 
-    //----------
+        //----------
 
         switch (age) {
             case 23:

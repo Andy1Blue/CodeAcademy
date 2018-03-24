@@ -9,7 +9,7 @@ public class IntTask7 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj całkowity promień koła:");
         int r = scanner.nextInt();
-        double score = Math.PI*r*r;
+        double score = Math.PI * r * r;
         System.out.println("Pole koła to: " + Math.round(score));
 
     }

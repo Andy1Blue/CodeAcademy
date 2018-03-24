@@ -17,8 +17,8 @@ public class IntTask13 {
         System.out.print("Zmienna C: ");
         int c = scanner.nextInt();
 
-        float avg = (a+b+c)/ 3;
-        System.out.println(String.format("%.2f",avg));
+        float avg = (a + b + c) / 3;
+        System.out.println(String.format("%.2f", avg));
 
     }
 

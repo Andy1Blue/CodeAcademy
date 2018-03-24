@@ -10,7 +10,7 @@ public class StringTask12 {
 
         String abc = scanner.nextLine();
 
-        System.out.println(abc.replace("*",""));
+        System.out.println(abc.replace("*", ""));
 
     }
 
