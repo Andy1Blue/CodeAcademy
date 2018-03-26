@@ -3,7 +3,7 @@ package pl.krzysztofbujak;
 public class NWDTask {
 
     //Największy wspólny dzielnik
-    
+
     public static void main(String[] args) {
 
         NWDTask nwdTask = new NWDTask();
